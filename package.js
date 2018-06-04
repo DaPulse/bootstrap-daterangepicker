@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'dangrossman:bootstrap-daterangepicker',
+  name: 'bladepop:bootstrap-daterangepicker',
   version: '3.0.3',
   summary: 'Date range picker component',
   git: 'https://github.com/dangrossman/daterangepicker',
